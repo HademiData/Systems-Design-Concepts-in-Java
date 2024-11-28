@@ -5,7 +5,6 @@
   Example: A web application can cache user data to avoid repeatedly 
   querying a database.
  */
-
  import java.util.HashMap;
 
 class Caching {
